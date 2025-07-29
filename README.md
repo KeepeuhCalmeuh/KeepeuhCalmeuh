@@ -1,12 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Hello%20World%20🌸&fontSize=45&fontColor=ffffff" alt="banner"/>
 
-# ✨ About Me
+# 👋 About Me
 
-- 🎯 Passionate about creating clean, efficient, and meaningful code.
-- 🌎 Based in France, exploring the endless world of technology and innovation.
-- 🛠️ Currently deep-diving into **Python**, **C**, and **C++** development.
-- 📊 Learning about **data analysis** and **modeling**, driven by curiosity and creativity.
-- 🧩 Always looking for new challenges to grow and refine skills.
+- 🎯 Passionate about writing clean, efficient, and meaningful code.
+- 🇫🇷 Based in France, exploring the vast fields of technology and innovation.
+- 🎓 Engineering student in **Applied Mathematics and Modeling** at Polytech Lyon.
+- 💻 Currently focused on **Python**, **C**, and **C++** development.
+- 📊 Actively learning **data science**, **data analysis**, and **modeling**.
+- 🚀 Always looking for new challenges to grow and refine my skills.
 
 ---
 
@@ -18,32 +19,37 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- ✍️ Strong foundation in algorithms and system programming.
-- 🪄 Always exploring the magic of automation and data-driven projects.
+- 🔧 Solid foundation in algorithms and system programming
+- 🧠 Curious about **AI**, **automation**, and **simulation**
+- 🔐 Growing interest in **cybersecurity** and **privacy-focused development**
 
 ---
 
-# 🚀 Public Projects
+# 🚀 Featured Projects
 
-- **Internet-stat**: A Python tool for quick internet connection analysis, powered by subprocess magic.
+### 📡 [Internet-stat](https://github.com/KeepeuhCalmeuh/internet-stat)
+A lightweight Python tool for quick internet connection analysis using `subprocess`.
 
-*(More projects in the making... stay tuned!)*
+### 🔒 [Cigarettes](https://github.com/KeepeuhCalmeuh/Cigarettes)
+An end-to-end encrypted **peer-to-peer messaging app** using **TOR** for anonymous routing and **modular architecture** for extensibility.
+(Work in Progress)
+
+> *More projects are in progress — stay tuned!*
 
 ---
 
-# 📬 Reach Me
+# 📬 Get in Touch
 
 - **Discord**: `schwarzeflamme`
-
-*(More communication channels will be available soon.)*
+- *(More contact options coming soon)*
 
 ---
 
 # 🎀 Fun Facts
 
-- ☕ Coffee is a faithful companion during long coding marathons (and outside of long coding marathons) 
-- 🐧 Open to the Linux world and embracing its endless possibilities.
-- 🌟 Deeply value understanding concepts rather than quick fixes.
+- ☕ Coffee is a reliable companion during long coding sessions (and outside of them).
+- 🐧 Open to the Linux world and its endless possibilities.
+- 🌟 I deeply value understanding how things work over quick fixes.
 
 ---
 
