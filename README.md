@@ -4,7 +4,7 @@
 
 - 🎯 Passionate about writing clean, efficient, and meaningful code.
 - 🇫🇷 Based in France, exploring the vast fields of technology and innovation.
-- 🎓 Engineering student in **Applied Mathematics and Modeling** at Polytech Lyon.
+- 🎓 Engineering student in **Applied Mathematics**.
 - 💻 Currently focused on **Python**, **C**, and **C++** development.
 - 📊 Actively learning **data science**, **data analysis**, and **modeling**.
 - 🚀 Always looking for new challenges to grow and refine my skills.
