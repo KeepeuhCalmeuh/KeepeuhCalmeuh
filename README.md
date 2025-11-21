@@ -77,7 +77,7 @@ An **end-to-end encrypted P2P messenger** using **TOR** for anonymous routing. *
 
 ## 📬 Contact
 
-- 💬 **Discord:** `https://discord.gg/9D3Je6s8`  
+- 💬 **Discord:** `https://discord.gg/JDNnGqK7ET`  
 - 📨 *(More contact options coming soon)*  
 
 ---
